@@ -1,0 +1,42 @@
+
+
+
+#countdown {
+    padding-top:60px;
+    width: 100%;
+}
+label {
+  clear: both;
+  display: block;
+}
+#countdown span {
+  background: rgb(221, 126, 165);;
+  color: rgb(0, 0, 0);
+  font-size: 26px;
+  font-weight: normal;
+  text-align: center;
+  width: 25%;
+  display: block;
+  float: left;
+  border-right: 1px solid #FFF;
+  padding-top: 25px;
+}
+#countdown span:last-child {
+  border-right: 1px solid #313233;
+}
+
+body{
+    background:rgb(250, 222, 239);
+    
+}
+p{ 
+  
+    text-align: center;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
